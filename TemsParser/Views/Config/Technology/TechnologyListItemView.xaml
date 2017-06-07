@@ -1,0 +1,215 @@
+﻿<UserControl x:Class="TemsParser.Views.TechnologyListItemView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:behaviors="clr-namespace:TemsParser.Behaviors"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        mc:Ignorable="d"
+        Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+    <Grid Margin="5">
+        <Grid VerticalAlignment="Stretch">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0"
+                               Grid.Column="0"
+                               Text="Наименование:"
+                               HorizontalAlignment="Right"
+                               Margin="3" Height="23" VerticalAlignment="Top"/>
+                    <TextBox Grid.Row="0"
+                             Grid.Column="1"
+                             HorizontalAlignment="Left"
+                             Height="23"
+                             Width="100"
+                             Margin="3"
+                             VerticalAlignment="Top">
+                        <i:Interaction.Behaviors>
+                            <behaviors:TextBoxSelectAllBehavior/>
+                            <behaviors:TextBoxGetFocusBehavior/>
+                        </i:Interaction.Behaviors>
+                    <TextBox.Text>
+                            <Binding Path="Name"
+                                     Mode="TwoWay"
+                                     UpdateSourceTrigger="PropertyChanged"
+                                     NotifyOnValidationError="True">
+                                <Binding.ValidationRules>
+                                    <DataErrorValidationRule/>
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </TextBox.Text>
+                        <TextBox.Tag>
+                            <Binding Path="TechnologiesList"
+                                     Mode="OneWay"
+                                     UpdateSourceTrigger="PropertyChanged"
+                                     NotifyOnValidationError="True">
+                                <Binding.ValidationRules>
+                                    <DataErrorValidationRule/>
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </TextBox.Tag>
+                    </TextBox>
+                    <GroupBox Grid.Row="1"
+                              Grid.Column="0"
+                              Grid.ColumnSpan="2"
+                              Grid.RowSpan="2"
+                              Header="Названия колонок"
+                              Margin="3">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0"
+                                       Grid.Column="0"
+                                       Text="Широта:"
+                                       HorizontalAlignment="Right"
+                                       Margin="3"
+                                       Height="23"
+                                       VerticalAlignment="Top"/>
+                            <TextBox Grid.Row="0"
+                                     Grid.Column="1"
+                                     HorizontalAlignment="Left"
+                                     Height="23"
+                                     Width="150"
+                                     Margin="3"
+                                     VerticalAlignment="Top">
+                                <i:Interaction.Behaviors>
+                                    <behaviors:TextBoxSelectAllBehavior/>
+                                </i:Interaction.Behaviors>
+                            <TextBox.Text>
+                                    <Binding Path="LatitudeColumnName"
+                                             Mode="TwoWay"
+                                             UpdateSourceTrigger="PropertyChanged"
+                                             NotifyOnValidationError="True">
+                                        <Binding.ValidationRules>
+                                            <DataErrorValidationRule/>
+                                        </Binding.ValidationRules>
+                                    </Binding>
+                                </TextBox.Text>
+                            </TextBox>
+                            <TextBlock Grid.Row="1"
+                                       Grid.Column="0"
+                                       Text="Долгота:"
+                                       HorizontalAlignment="Right"
+                                       Margin="3"
+                                       Height="23"
+                                       VerticalAlignment="Top"/>
+                            <TextBox Grid.Row="1"
+                                     Grid.Column="1"
+                                     HorizontalAlignment="Left"
+                                     Height="23"
+                                     Width="150"
+                                     Margin="3"
+                                     VerticalAlignment="Top">
+                                <i:Interaction.Behaviors>
+                                    <behaviors:TextBoxSelectAllBehavior/>
+                                </i:Interaction.Behaviors>
+                            <TextBox.Text>
+                                    <Binding Path="LongitudeColumnName"
+                                             Mode="TwoWay"
+                                             UpdateSourceTrigger="PropertyChanged"
+                                             NotifyOnValidationError="True">
+                                        <Binding.ValidationRules>
+                                            <DataErrorValidationRule/>
+                                        </Binding.ValidationRules>
+                                    </Binding>
+                                </TextBox.Text>
+                            </TextBox>
+                            <TextBlock Grid.Row="2"
+                                       Grid.Column="0"
+                                       Text="Частота (паттерн):"
+                                       HorizontalAlignment="Right"
+                                       Margin="3"
+                                       Height="23"
+                                       VerticalAlignment="Top"/>
+                            <TextBox Grid.Row="2"
+                                     Grid.Column="1"
+                                     HorizontalAlignment="Left"
+                                     Height="23"
+                                     Width="150"
+                                     Margin="3"
+                                     VerticalAlignment="Top">
+                                <i:Interaction.Behaviors>
+                                    <behaviors:TextBoxSelectAllBehavior/>
+                                </i:Interaction.Behaviors>
+                            <TextBox.Text>
+                                    <Binding Path="FreqColumnNamePart"
+                                             Mode="TwoWay"
+                                             UpdateSourceTrigger="PropertyChanged"
+                                             NotifyOnValidationError="True">
+                                        <Binding.ValidationRules>
+                                            <DataErrorValidationRule/>
+                                        </Binding.ValidationRules>
+                                    </Binding>
+                                </TextBox.Text>
+                            </TextBox>
+                            <TextBlock Grid.Row="3"
+                                       Grid.Column="0"
+                                       Text="Уровень (паттерн):"
+                                       HorizontalAlignment="Right"
+                                       Margin="3"
+                                       Height="23"
+                                       VerticalAlignment="Top"/>
+                            <TextBox Grid.Row="3"
+                                     Grid.Column="1"
+                                     HorizontalAlignment="Left"
+                                     Height="23"
+                                     Width="150"
+                                     Margin="3"
+                                     VerticalAlignment="Top">
+                                <i:Interaction.Behaviors>
+                                    <behaviors:TextBoxSelectAllBehavior/>
+                                </i:Interaction.Behaviors>
+                            <TextBox.Text>
+                                    <Binding Path="LevelColumnNamePart"
+                                             Mode="TwoWay"
+                                             UpdateSourceTrigger="PropertyChanged"
+                                             NotifyOnValidationError="True">
+                                        <Binding.ValidationRules>
+                                            <DataErrorValidationRule/>
+                                        </Binding.ValidationRules>
+                                    </Binding>
+                                </TextBox.Text>
+                            </TextBox>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+                <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100*"/>
+                    <ColumnDefinition Width="70"/>
+                    <ColumnDefinition Width="70"/>
+                </Grid.ColumnDefinitions>
+                <Button Content="OK"
+                        Command="{Binding OkCommand}"
+                        HorizontalAlignment="Center"
+                        Grid.Column="1"
+                        VerticalAlignment="Center"
+                        Width="65"/>
+                <Button Content="Cancel"
+                        Command="{Binding CancelCommand}"
+                        HorizontalAlignment="Center"
+                        Grid.Column="2"
+                        VerticalAlignment="Center"
+                        Width="65"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

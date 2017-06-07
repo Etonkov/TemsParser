@@ -1,0 +1,75 @@
+﻿<Application x:Class="TemsParser.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TemsParser"
+             xmlns:configViewModels="clr-namespace:TemsParser.ViewModels.Config"
+             xmlns:viewModels="clr-namespace:TemsParser.ViewModels"
+             xmlns:views="clr-namespace:TemsParser.Views"
+             ShutdownMode="OnMainWindowClose"
+             Startup="OnStartup">
+    <Application.Resources>     
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={RelativeSource Self},
+                            Path=(Validation.Errors)[0].ErrorContent}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="ComboBox">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={RelativeSource Self},
+                            Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Grid">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={RelativeSource Self},
+                            Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="StackPanel">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={RelativeSource Self},
+                            Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <DataTemplate DataType="{x:Type configViewModels:ConfigViewModel}">
+            <views:ConfigView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModels:CalcDistanceViewModel}">
+            <views:CalcDistanceView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type configViewModels:FreqViewModel}">
+            <views:FreqView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type configViewModels:INameItemViewModel}">
+            <views:INameItemView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModels:MessageViewModel}">
+            <views:MessageView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModels:ParsingViewModel}">
+            <views:ParsingView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type configViewModels:TechnologyListItemViewModel}">
+            <views:TechnologyListItemView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type configViewModels:INameListViewModel}">
+            <views:INameListView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type configViewModels:INameListItemViewModel}">
+            <views:INameListItemView />
+        </DataTemplate>
+    </Application.Resources>
+</Application>

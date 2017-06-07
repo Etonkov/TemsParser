@@ -1,0 +1,15 @@
+﻿<Window x:Class="TemsParser.Views.ExitView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:behaviors="clr-namespace:TemsParser.Behaviors"
+        xmlns:userControls="clr-namespace:TemsParser.UserControls"
+        SizeToContent="WidthAndHeight"
+        WindowStartupLocation="CenterOwner"
+        AllowsTransparency="True"
+        WindowStyle="None">
+    <Window.Background>
+        <SolidColorBrush Opacity="0.1" Color="White"/>
+    </Window.Background>
+    <userControls:Spinner />
+</Window>

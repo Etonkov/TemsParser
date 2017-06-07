@@ -1,0 +1,142 @@
+﻿<UserControl x:Class="TemsParser.Views.ParsingView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             xmlns:behaviors="clr-namespace:TemsParser.Behaviors"
+             Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"
+             Width="600">
+    <UserControl.Resources>
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="false">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TextBox">
+                                <TextBlock Text="{TemplateBinding Text}"
+                                           TextTrimming="CharacterEllipsis"/>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="DataGridCell">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type DataGridCell}">
+                        <Border Padding="3"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                Background="{TemplateBinding Background}"
+                                SnapsToDevicePixels="True">
+                            <ContentPresenter SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}">
+                                <ContentPresenter.ContentTemplate>
+                                    <DataTemplate>
+                                        <TextBlock TextTrimming="CharacterEllipsis"
+                                                   Text="{Binding Text}"/>
+                                    </DataTemplate>
+                                </ContentPresenter.ContentTemplate>
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <ProgressBar Height="20"
+                         Width="auto">
+                <ProgressBar.Minimum>
+                    <Binding Path="ProgressMinimum"
+                             Mode="OneWay"/>
+                </ProgressBar.Minimum>
+                <ProgressBar.Maximum>
+                    <Binding Path="ProgressMaximum"
+                             Mode="OneWay"/>
+                </ProgressBar.Maximum>
+                <ProgressBar.Value>
+                    <Binding Path="ProgressValue"
+                             Mode="OneWay"
+                             UpdateSourceTrigger="PropertyChanged"/>
+                </ProgressBar.Value>
+            </ProgressBar>
+            <StackPanel Margin="5">
+                <TextBlock Text="Каталог: ">
+                </TextBlock>
+                <TextBox Width="Auto"
+                         IsReadOnly="True"
+                         BorderThickness="0"
+                         Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"
+                         IsInactiveSelectionHighlightEnabled="False">
+                    <i:Interaction.Behaviors>
+                        <behaviors:TextBoxSelectAllBehavior/>
+                    </i:Interaction.Behaviors>
+                    <TextBox.Text>
+                        <Binding Path="Directory"
+                                 Mode="OneWay"
+                                 UpdateSourceTrigger="PropertyChanged"/>
+                    </TextBox.Text>
+                </TextBox>
+            </StackPanel>
+            <TextBlock Margin="5">
+                <TextBlock.Text>
+                    <Binding Path="Phase"
+                             Mode="OneWay"
+                             UpdateSourceTrigger="PropertyChanged"/>
+                </TextBlock.Text>
+            </TextBlock>
+            <Expander>
+                <StackPanel>
+                    <DataGrid IsReadOnly="True"
+                              Height="350"
+                              VerticalScrollBarVisibility="Auto"
+                              AutoGenerateColumns="False"
+                              CanUserResizeColumns="True"
+                              HorizontalAlignment="Stretch"
+                              VerticalAlignment="Stretch">
+                        <DataGrid.ItemsSource>
+                            <Binding Path="Feedback"
+                             Mode="OneWay"
+                             UpdateSourceTrigger="PropertyChanged"/>
+                        </DataGrid.ItemsSource>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Статус" Width="Auto" 
+                             Binding="{Binding Path=Status}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Файл" Width="Auto" 
+                             Binding="{Binding Path=FileName}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Сообщение" Width="*" Binding="{Binding Path=Message}">
+                                <DataGridTextColumn.CellStyle>
+                                    <Style TargetType="DataGridCell">
+                                        <Setter Property="ToolTip" Value="{Binding Path = Message}" />
+                                    </Style>
+                                </DataGridTextColumn.CellStyle>
+                            </DataGridTextColumn>
+                            <DataGridTextColumn Header="Время" Width="Auto" 
+                             Binding="{Binding Path=Time, StringFormat='{}{0:yyyy-MM-dd HH:mm:ssss}'}"></DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button Content="Export"
+                            HorizontalAlignment="Left"
+                            Command="{Binding ExportCommand}"/>
+                </StackPanel>
+            </Expander>
+        </StackPanel>
+            <Button x:Name="AbortButton"
+                    Grid.Row="1"
+                    Content="Abort"
+                    Width="80"
+                    Height="25"
+                    HorizontalAlignment="Right"
+                    Command="{Binding AbortCommand}"
+                    IsEnabled ="{Binding IsParsing, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Column="1"/>
+    </Grid>
+</UserControl>

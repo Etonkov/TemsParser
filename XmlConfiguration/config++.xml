@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <regionsList>
+    <item>a</item>
+    <item>b</item>
+    <item>c</item>
+    <item>KALUGA</item>
+    <item>NN</item>
+    <item>Ryazan</item>
+  </regionsList>
+  <technologiesList>
+    <item>1G</item>
+    <item>2G</item>
+    <item>3G</item>
+    <item>4G</item>
+  </technologiesList>
+  <operatorsList>
+    <item>Bee</item>
+    <item>Megafon</item>
+    <item>MTS</item>
+  </operatorsList>
+  <region name="a">
+    <technology name="1G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="2G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+  </region>
+  <region name="b">
+    <technology name="1G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="2G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+  </region>
+  <region name="c">
+    <technology name="1G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="2G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+  </region>
+  <region name="KALUGA">
+    <technology name="1G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="2G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+  </region>
+  <region name="NN">
+    <technology name="1G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="2G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+  </region>
+  <region name="Ryazan">
+    <technology name="1G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="2G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Bee">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Megafon">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="MTS">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+  </region>
+</config>

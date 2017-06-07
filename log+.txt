@@ -1,0 +1,9 @@
+Статус	Файл	Строка	Сообщение	Время
+Error	2G+3G+.txt		Ошибка чтения параметров файла: System.Exception: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+   в TemsParser.IO.TemsFileInfoReader.ReadFileInfo(TemsFileInfoModel& temsFileData) в D:\C#projects\TemsParser\TemsParser\IO\TemsFileInfoReader.cs:строка 38	03.04.2017 13:41:29
+Error	Test_2g+.txt		Ошибка чтения параметров файла: System.Exception: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+   в TemsParser.IO.TemsFileInfoReader.ReadFileInfo(TemsFileInfoModel& temsFileData) в D:\C#projects\TemsParser\TemsParser\IO\TemsFileInfoReader.cs:строка 38	03.04.2017 13:41:29
+Error	Test_3G+.TXT		Ошибка чтения параметров файла: System.Exception: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+   в TemsParser.IO.TemsFileInfoReader.ReadFileInfo(TemsFileInfoModel& temsFileData) в D:\C#projects\TemsParser\TemsParser\IO\TemsFileInfoReader.cs:строка 38	03.04.2017 13:41:29
+Error	Test_4g+.txt		Ошибка чтения параметров файла: System.Exception: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+   в TemsParser.IO.TemsFileInfoReader.ReadFileInfo(TemsFileInfoModel& temsFileData) в D:\C#projects\TemsParser\TemsParser\IO\TemsFileInfoReader.cs:строка 38	03.04.2017 13:41:29

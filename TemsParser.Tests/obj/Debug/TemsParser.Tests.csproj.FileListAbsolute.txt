@@ -1,0 +1,89 @@
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.pdb
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.csprojResolveAssemblyReference.cache
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.pdb
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.dll
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.pdb
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.exe
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.pdb
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.csprojResolveAssemblyReference.cache
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.dll
+f:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.pdb
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.dll
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.pdb
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.exe
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.pdb
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.csprojResolveAssemblyReference.cache
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.dll
+d:\C#projects\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.pdb
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.dll
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.pdb
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.csprojResolveAssemblyReference.cache
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.dll
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.pdb
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.dll
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.pdb
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.csprojResolveAssemblyReference.cache
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.dll
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.exe
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.csprojResolveAssemblyReference.cache
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.pdb
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\System.Windows.Interactivity.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\de\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\en\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\es\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\it\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser.Tests\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.Tests.pdb
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.exe
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\System.Windows.Interactivity.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\TemsParser.pdb
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.csprojResolveAssemblyReference.cache
+D:\C#projects\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.dll
+D:\C#projects\TemsParser\TemsParser.Tests\obj\Debug\TemsParser.Tests.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\System.Windows.Interactivity.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\Ninject.dll
+D:\C#projects\TemsParser\TemsParser.Tests\bin\Debug\Ninject.xml
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\Ninject.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser.Tests\bin\Debug\Ninject.xml

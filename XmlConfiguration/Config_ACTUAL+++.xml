@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <regionsList>
+    <item name="Брянск" />
+    <item name="Владимир" />
+    <item name="Калуга" />
+    <item name="Курск" />
+    <item name="НН" />
+    <item name="Орёл" />
+    <item name="Рязань" />
+    <item name="Тула" />
+  </regionsList>
+  <technologiesList>
+    <item name="2G">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePart>All-Scanned ARFCN</freqColumnNamePart>
+      <levelColumnNamePart>All-Scanned RxLev (dBm)</levelColumnNamePart>
+    </item>
+    <item name="3G">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePart>All-Sc Best UARFCN</freqColumnNamePart>
+      <levelColumnNamePart>All-Sc Best Aggr Ec (dBm)</levelColumnNamePart>
+    </item>
+    <item name="4G">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePart>All-Sc Best EARFCN</freqColumnNamePart>
+      <levelColumnNamePart>All-Sc Best RSRP (dBm)</levelColumnNamePart>
+    </item>
+  </technologiesList>
+  <operatorsList>
+    <item name="МегаФон" />
+    <item name="БиЛайн" />
+	<item name="МТС" />
+    <item name="Tele2" />
+  </operatorsList>
+<region name="НН"><technology name="2G"><operator name="МегаФон"><freqList>69-89,113-124,737-809,1022-1023</freqList></operator><operator name="БиЛайн"><freqList>22-46,587-656</freqList></operator><operator name="МТС"><freqList>47-67,662-735,1016-1020</freqList></operator><operator name="Tele2"><freqList>512-576,1-20,91-111,812-885</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10687,10662,10638</freqList></operator><operator name="БиЛайн"><freqList>10788,10813,10836</freqList></operator><operator name="МТС"><freqList>10713,10737,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>1446,1748,2825,2852,2850,2975,2994,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275,3270,1470</freqList></operator><operator name="МТС"><freqList>3200,1550,1570</freqList></operator><operator name="Tele2"><freqList>3400,1270,1890,6170</freqList></operator>    </technology>  </region>
+<region name="Калуга"><technology name="2G"><operator name="МегаФон"><freqList>22-34,54-59,74-97,105-110,119-124,587-659,1016-1023</freqList></operator><operator name="БиЛайн"><freqList>36-52,61-72,513-585,661-735,1011-1014</freqList></operator><operator name="МТС"><freqList>1-20,99-103,112-117,737-810</freqList></operator><operator name="Tele2"><freqList>812-885</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10638,10687,10662</freqList></operator><operator name="БиЛайн"><freqList>10813,10836,10788</freqList></operator><operator name="МТС"><freqList>10713,10738,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>2825,2852,2850,2975,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275</freqList></operator><operator name="МТС"><freqList>3200</freqList></operator>    </technology>  </region>
+<region name="Брянск"><technology name="2G"><operator name="МегаФон"><freqList>58-73,78-83,89-97,107-111,117-122,1016-1023,587-660</freqList></operator><operator name="БиЛайн"><freqList>22-56,512-581</freqList></operator><operator name="МТС"><freqList>20,75-76,85-87,99-105,113-115,124,757-827</freqList></operator><operator name="Tele2"><freqList>737-755,830-885</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10687,10662,10638</freqList></operator><operator name="БиЛайн"><freqList>10788,10813,10836</freqList></operator><operator name="МТС"><freqList>10713,10737,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>2825,2852,2850,2975,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275</freqList></operator><operator name="МТС"><freqList>3200</freqList></operator>    </technology>  </region>
+<region name="Орёл"><technology name="2G"><operator name="МегаФон"><freqList>59-114,587-659</freqList></operator><operator name="БиЛайн"><freqList>36-52,61-72,513-585,661-735,1011-1014</freqList></operator><operator name="МТС"><freqList>1-20,99-103,112-117,737-810</freqList></operator><operator name="Tele2"><freqList>737-743,818-885</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10687,10662,10638</freqList></operator><operator name="БиЛайн"><freqList>10788,10813,10836</freqList></operator><operator name="МТС"><freqList>10713,10737,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>2825,2852,2850,2975,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275</freqList></operator><operator name="МТС"><freqList>3200</freqList></operator>    </technology>  </region>
+<region name="Курск"><technology name="2G"><operator name="МегаФон"><freqList>54-84,89-90,95-99,1016-1023,587-659</freqList></operator><operator name="БиЛайн"><freqList>22-52,512-571</freqList></operator><operator name="МТС"><freqList>1-20,86-87,101-113,746-816</freqList></operator><operator name="Tele2"><freqList>662-735</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10687,10662,10638</freqList></operator><operator name="БиЛайн"><freqList>10788,10813,10836</freqList></operator><operator name="МТС"><freqList>10713,10738,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>2825,2852,2850,2975,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275</freqList></operator><operator name="МТС"><freqList>3200</freqList></operator>    </technology>  </region>
+<region name="Владимир"><technology name="2G"><operator name="МегаФон"><freqList>92-124,587-659,1016-1021</freqList></operator><operator name="БиЛайн"><freqList>24-69,512-581</freqList></operator><operator name="МТС"><freqList>1-22,71-90,750-821,1023</freqList></operator><operator name="Tele2"><freqList>737-748,822-885</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10638,10622,10687</freqList></operator><operator name="БиЛайн"><freqList>10813,10788,10836</freqList></operator><operator name="МТС"><freqList>10713,10737,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>2825,2852,2850,2975,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275</freqList></operator><operator name="МТС"><freqList>3200</freqList></operator>    </technology>  </region>
+<region name="Тула"><technology name="2G"><operator name="МегаФон"><freqList>62-99,108-113,1016-1021,587-660</freqList></operator><operator name="БиЛайн"><freqList>22-60,512-585</freqList></operator><operator name="МТС"><freqList>1-20,101-106,115-124,1023-1024,759-829</freqList></operator><operator name="Tele2"><freqList>662-736</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10638,10662,10687</freqList></operator><operator name="БиЛайн"><freqList>10788,10813,10836</freqList></operator><operator name="МТС"><freqList>10713,10737,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>2825,2852,2850,2975,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275</freqList></operator><operator name="МТС"><freqList>3200</freqList></operator><operator name="Tele2"><freqList>1800</freqList></operator>    </technology>  </region>
+<region name="Рязань"><technology name="2G"><operator name="МегаФон"><freqList>67-103,118-124,1016-1020,587-660</freqList></operator><operator name="БиЛайн"><freqList>24-38,45-65,512-570</freqList></operator><operator name="МТС"><freqList>1-22,105-109,112-116,1022-1023,761-832</freqList></operator><operator name="Tele2"><freqList>737-759,834-885</freqList></operator>    </technology><technology name="3G"><operator name="МегаФон"><freqList>10638,10662,10687</freqList></operator><operator name="БиЛайн"><freqList>10788,10813,10836</freqList></operator><operator name="МТС"><freqList>10713,10737,10762</freqList></operator><operator name="Tele2"><freqList>10563,10587,10612</freqList></operator>    </technology><technology name="4G"><operator name="МегаФон"><freqList>2825,2852,2850,2975,3000,3050,3100</freqList></operator><operator name="БиЛайн"><freqList>3300,3275</freqList></operator><operator name="МТС"><freqList>3200</freqList></operator>    </technology>  </region>
+</config>

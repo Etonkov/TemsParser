@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <regionsList>
+    <item name="Брянск" />
+    <item name="Владимир" />
+    <item name="Калуга" />
+    <item name="Кур" />
+    <item name="Н.Новгород" />
+    <item name="Орёл" />
+    <item name="Рязань" />
+    <item name="Тула" />
+  </regionsList>
+  <technologiesList>
+    <item name="2G">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePattern>All-Scanned ARFCN</freqColumnNamePattern>
+      <levelColumnNamePattern>All-Scanned RxLev (dBm)</levelColumnNamePattern>
+    </item>
+    <item name="3G">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePattern>All-Sc Best UARFCN</freqColumnNamePattern>
+      <levelColumnNamePattern>All-Sc Best Aggr Ec (dBm)</levelColumnNamePattern>
+    </item>
+    <item name="4G">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePattern>All-Sc Best EARFCN</freqColumnNamePattern>
+      <levelColumnNamePattern>All-Sc Best RSRP (dBm)</levelColumnNamePattern>
+    </item>
+  </technologiesList>
+  <operatorsList>
+    <item name="МегаФон" />
+    <item name="МТС" />
+    <item name="Билайн" />
+    <item name="Tele2" />
+  </operatorsList>
+  <region name="Брянск">
+    <Id>8</Id>
+    <technology name="2G">
+      <Id>103</Id>
+      <operator name="Tele2">
+        <Id>37</Id>
+        <freqList>
+          <Id>38</Id>34234</freqList>
+      </operator>
+      <operator name="Билайн">
+        <Id>9</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>39</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>40</Id>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <Id>41</Id>
+      <operator name="Tele2">
+        <Id>42</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>43</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>44</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>45</Id>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <Id>46</Id>
+      <operator name="Tele2">
+        <Id>47</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>48</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>49</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>50</Id>
+      </operator>
+    </technology>
+  </region>
+  <region name="Владимир">
+    <Id>51</Id>
+    <technology name="2G">
+      <Id>52</Id>
+      <operator name="Tele2">
+        <Id>10</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>22</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>11</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>12</Id>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <Id>13</Id>
+      <operator name="Tele2">
+        <Id>14</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>15</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>16</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>17</Id>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <Id>7</Id>
+    </technology>
+  </region>
+  <region name="Калуга">
+    <Id>18</Id>
+    <technology name="2G">
+      <Id>19</Id>
+      <operator name="Tele2">
+        <Id>20</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>21</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>23</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>24</Id>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <Id>25</Id>
+      <operator name="Tele2">
+        <Id>26</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>27</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>28</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>29</Id>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <Id>30</Id>
+      <operator name="Tele2">
+        <Id>31</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>32</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>33</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>34</Id>
+      </operator>
+    </technology>
+  </region>
+  <region name="Н.Новгород">
+    <Id>35</Id>
+    <technology name="2G">
+      <Id>36</Id>
+      <operator name="Tele2">
+        <Id>53</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>54</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>55</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>56</Id>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <Id>57</Id>
+      <operator name="Tele2">
+        <Id>58</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>59</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>60</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>61</Id>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <Id>62</Id>
+      <operator name="Tele2">
+        <Id>63</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>64</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>65</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>66</Id>
+      </operator>
+    </technology>
+  </region>
+  <region name="Орёл">
+    <Id>67</Id>
+    <technology name="2G">
+      <Id>68</Id>
+      <operator name="Tele2">
+        <Id>69</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>70</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>71</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>72</Id>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <Id>73</Id>
+      <operator name="Tele2">
+        <Id>74</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>75</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>76</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>77</Id>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <Id>78</Id>
+      <operator name="Tele2">
+        <Id>79</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>80</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>81</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>82</Id>
+      </operator>
+    </technology>
+  </region>
+  <region name="Рязань">
+    <Id>83</Id>
+    <technology name="2G">
+      <Id>84</Id>
+      <operator name="Tele2">
+        <Id>85</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>86</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>87</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>88</Id>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <Id>89</Id>
+      <operator name="Tele2">
+        <Id>90</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>91</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>92</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>93</Id>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <Id>94</Id>
+      <operator name="Tele2">
+        <Id>95</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>96</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>97</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>98</Id>
+      </operator>
+    </technology>
+  </region>
+  <region name="Тула">
+    <Id>99</Id>
+    <technology name="2G">
+      <Id>100</Id>
+      <operator name="Tele2">
+        <Id>101</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>102</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>6</Id>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <Id>1</Id>
+      <operator name="Tele2">
+        <Id>2</Id>
+      </operator>
+      <operator name="Билайн">
+        <Id>3</Id>
+      </operator>
+      <operator name="МегаФон">
+        <Id>4</Id>
+      </operator>
+      <operator name="МТС">
+        <Id>5</Id>
+      </operator>
+    </technology>
+  </region>
+</config>

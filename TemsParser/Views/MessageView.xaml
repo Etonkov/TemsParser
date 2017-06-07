@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="TemsParser.Views.MessageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             mc:Ignorable="d"
+             xmlns:behaviors="clr-namespace:TemsParser.Behaviors"
+             Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+    <UserControl.Resources>
+        <Style TargetType="Image">
+            <Style.Triggers>
+                <Trigger Property="behaviors:ImageAttachedProperties.MessageType" Value="OK">
+                    <Setter Property="Source" Value="../Icons/OK.ico" />
+                </Trigger>
+                <Trigger Property="behaviors:ImageAttachedProperties.MessageType" Value="Error">
+                    <Setter Property="Source" Value="../Icons/Error.ico" />
+                </Trigger>
+                <Trigger Property="behaviors:ImageAttachedProperties.MessageType" Value="Warning">
+                    <Setter Property="Source" Value="../Icons/Warning.ico" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="behaviors:CommonAttachedProperties.IsVisible" Value="false">
+                    <Setter Property="BorderThickness" Value="0" />
+                    <Setter Property="Background" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" x:Key="ButtonVisibility">
+            <Style.Triggers>
+                <Trigger Property="behaviors:CommonAttachedProperties.IsVisible" Value="false">
+                    <Setter Property="Visibility" Value="Hidden" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <UserControl.InputBindings>
+        <KeyBinding Gesture="CTRL+S"
+                    Command="{Binding SaveCommand}"/>
+        <KeyBinding Gesture="Enter"
+                    Command="{Binding CancelCommand}"/>
+    </UserControl.InputBindings>
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Column="0"
+                   VerticalAlignment="Top"
+                   Width="48"
+                   Height="48"
+                   behaviors:ImageAttachedProperties.MessageType="{Binding MessageType}"/>
+            <TextBox Grid.Column="1"
+                     MaxWidth="400"
+                     MinWidth="200"
+                     MinHeight="70"
+                     MaxHeight="600"
+                     Margin="5,0,0,5"
+                     IsReadOnly="True"
+                     VerticalScrollBarVisibility="Auto"
+                     TextWrapping = "Wrap"
+                     behaviors:CommonAttachedProperties.IsVisible="{Binding IsExportable}"
+                     Text="{Binding Path=Message}">
+                <i:Interaction.Behaviors>
+                    <behaviors:TextBoxSelectAllBehavior/>
+                </i:Interaction.Behaviors>
+            </TextBox>
+        </Grid>
+        <Grid Grid.Row="1"
+              FocusManager.FocusedElement="{Binding ElementName=OkButton}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="90"/>
+                <ColumnDefinition Width="90"/>
+            </Grid.ColumnDefinitions>
+            <Button Content="Сохранить"
+                    Width="80"
+                    behaviors:CommonAttachedProperties.IsVisible="{Binding IsExportable}"
+                    HorizontalAlignment="Left"
+                    Command="{Binding SaveCommand}"
+                    Grid.Column="1"
+                    Style="{StaticResource ButtonVisibility}"/>
+            <Button x:Name="OkButton"
+                    Content="OK"
+                    Width="80"
+                    HorizontalAlignment="Left"
+                    Command="{Binding CancelCommand}"
+                    Grid.Column="2"/>
+        </Grid>
+    </Grid>
+</UserControl>

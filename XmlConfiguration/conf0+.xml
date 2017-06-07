@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <regionsList>
+    <item>NN</item>
+    <item>Калуга</item>
+	<item>Рязань</item>
+  </regionsList>
+  <technologiesList>
+    <item>2G</item>
+    <item>3G</item>
+    <item>4G</item>
+  </technologiesList>
+  <operatorsList>
+    <item>MegaFon</item>
+	<item>MTS</item>
+  </operatorsList>
+  <region name="NN">
+    <technology name="2G">
+      <operator name="MegaFon">
+        <freqList>26-40,1020-1023</freqList>
+        <freqList>587-609</freqList>
+      </operator>
+    </technology>
+    <technology name="3G" />
+  </region>
+  <region name="Калуга">
+    <technology name="4G">
+      <operator name="MegaFon" />
+	  <operator name="MTS" />
+    </technology>
+  </region>
+</config>

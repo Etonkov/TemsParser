@@ -1,0 +1,483 @@
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\App.g.cs
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+f:\Projects\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+f:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+f:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+f:\Projects\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+f:\Projects\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+f:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+f:\Projects\TemsParser\TemsParser\obj\Debug\App.g.cs
+f:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+f:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+f:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+f:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+F:\Projects\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+F:\Projects\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+F:\Projects\TemsParser\TemsParser\obj\Debug\Views\ConfigView.g.cs
+F:\Projects\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+F:\Projects\TemsParser\TemsParser\obj\Debug\Views\ConfigView.baml
+F:\Projects\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\Views\ConfigView.g.cs
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\Views\ConfigView.baml
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+\\cnt-vdi-fs.megafon.ru\Profiles\evgeniy.tonkov\Documents\Visual Studio 2012\Projects\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+Z:\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+Z:\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+Z:\TemsParser\TemsParser\obj\Debug\App.g.cs
+Z:\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+Z:\TemsParser\TemsParser\obj\Debug\App.baml
+d:\C# project\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+d:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+d:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+d:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+d:\C# project\TemsParser\TemsParser\obj\Debug\App.g.cs
+d:\C# project\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+d:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+D:\C# project\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+D:\C# project\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+D:\C# project\TemsParser\TemsParser\obj\Debug\App.baml
+D:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+D:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+D:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+Z:\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+Z:\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+Z:\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+Z:\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+Z:\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+Z:\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+Z:\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+Z:\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+Z:\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ModelErrorMessages.resources
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\Config\EditConfigView.baml
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\Config\EditConfigView.g.cs
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+d:\C# project\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+d:\C# project\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ModelErrorMessages.resources
+Z:\TemsParser\TemsParser\obj\Debug\Views\Config\OperatorView.baml
+Z:\TemsParser\TemsParser\obj\Debug\Views\Config\OperatorView.g.cs
+Z:\C#_project\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\Config\OperatorView.baml
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\Config\OperatorView.g.cs
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\App.g.cs
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\App.baml
+Z:\C#_project\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+Z:\C#_project\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ModelErrorMessages.resources
+Z:\C#_project\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\App.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\App.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+f:\Projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+f:\Projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+f:\Projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\NamesListView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\RegionView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\TechnologyView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\OperatorView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\NamesListView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\RegionView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\TechnologyView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\FreqView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\OperatorView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\App.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\App.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\FreqView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ModelErrorMessages.resources
+f:\Projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+d:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+d:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+D:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\App.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\App.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+F:\C#projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+F:\C#projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+F:\C#projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigItemView.baml
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigItemView.g.cs
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\App.g.cs
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\App.baml
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Operator\OperatorsListItemView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologiesListItemView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Region\RegionsListItemView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologiesListView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Operator\OperatorsListView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Region\RegionsListView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Operator\OperatorsListItemView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologiesListItemView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Region\RegionsListItemView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologiesListView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Operator\OperatorsListView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Region\RegionsListView.baml
+f:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+F:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+D:\C#projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\App.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+d:\C#projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+d:\C#projects\ACTUAL\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\App.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+d:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.baml
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.baml
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.g.cs
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.g.cs
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.g.cs
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.g.cs
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.baml
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.baml
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.baml
+D:\C#projects\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\App.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\App.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+\\Client\Z$\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\App.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\App.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser - slow\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\App.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\App.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+Z:\C#_project\Actual!!!\TemsParser - actual\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\bin\Debug\System.Windows.Interactivity.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\System.Windows.Interactivity.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\de\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\en\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\es\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\it\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+d:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\UserControls\Spinner.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\UserControls\Spinner.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\ExitView.g.cs
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\Views\ExitView.baml
+Z:\C#_project\Actual!!!\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache
+D:\C#projects\TemsParser\TemsParser\bin\Debug\TemsParser.exe.config
+D:\C#projects\TemsParser\TemsParser\bin\Debug\TemsParser.exe
+D:\C#projects\TemsParser\TemsParser\bin\Debug\TemsParser.pdb
+D:\C#projects\TemsParser\TemsParser\bin\Debug\System.Windows.Interactivity.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\C#projects\TemsParser\TemsParser\obj\Debug\UserControls\Spinner.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\UserControls\Spinner.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameItemView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\ExitView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\ParsingView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\MessageView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\MainView.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\App.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.cache
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser_MarkupCompile.lref
+D:\C#projects\TemsParser\TemsParser\obj\Debug\App.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\CalcDistanceView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\ChildWindowView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\ConfigView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListItemView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\Technology\TechnologyListItemView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\INameItem\INameListView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\Config\Freq\FreqView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\ExitView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\ParsingView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\MessageView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\Views\MainView.baml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser.g.resources
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser.Properties.Resources.resources
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser.Resources.ErrorMessages.resources
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser.csproj.GenerateResource.Cache
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser.exe
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser.pdb
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\UserControls\Spinner.baml
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\UserControls\Spinner.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ExitView.g.cs
+D:\C# project\ACTUAL\TemsParser\TemsParser\obj\Debug\Views\ExitView.baml
+D:\C#projects\TemsParser\TemsParser\bin\Debug\Ninject.dll
+D:\C#projects\TemsParser\TemsParser\bin\Debug\Ninject.xml
+D:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\Ninject.dll
+D:\C# project\ACTUAL\TemsParser\TemsParser\bin\Debug\Ninject.xml
+D:\C#projects\TemsParser\TemsParser\obj\Debug\TemsParser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB561745-7867-4932-9838-F338DF90353C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TemsParser</RootNamespace>
+    <AssemblyName>TemsParser</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons\logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Behaviors\CommonAttachedProperties.cs" />
+    <Compile Include="Behaviors\ButtonGetFocusBehavior.cs" />
+    <Compile Include="Behaviors\WindowGetFocusBehavior.cs" />
+    <Compile Include="Behaviors\TreeViewFocusOnSelectedBehavior.cs" />
+    <Compile Include="Behaviors\TextBoxGetFocusBehavior.cs" />
+    <Compile Include="Behaviors\TextBoxSelectAllBehavior.cs" />
+    <Compile Include="Behaviors\ImageAttachedProperties.cs" />
+    <Compile Include="Common\AsyncCommand.cs" />
+    <Compile Include="Common\CollectionPropertyChangedEventArgs.cs" />
+    <Compile Include="Common\Command.cs" />
+    <Compile Include="Common\ConfigPropertyChangedEventArgs.cs" />
+    <Compile Include="Common\BooleanPropertyChangedEventArgs.cs" />
+    <Compile Include="Common\IAsyncCommand.cs" />
+    <Compile Include="Common\PropertyName.cs" />
+    <Compile Include="Common\NotifyPropertyChanged.cs" />
+    <Compile Include="Converters\JoinStringConverter.cs" />
+    <Compile Include="CustomAttributes\MaxLengthTrimmedAttribute.cs" />
+    <Compile Include="CustomAttributes\NamesAttribute.cs" />
+    <Compile Include="CustomAttributes\FilePathExistAttribute.cs" />
+    <Compile Include="CustomAttributes\EqualsTrueAttribute.cs" />
+    <Compile Include="CustomAttributes\CoordinateAttribute.cs" />
+    <Compile Include="CustomAttributes\IgnoreGetAllChildrenAttribute.cs" />
+    <Compile Include="CustomAttributes\UniqueValuesCollectionAttribute.cs" />
+    <Compile Include="Extentions\Model\Config\OperatorListExtentions.cs" />
+    <Compile Include="Extentions\Model\Config\RegionListExtentions.cs" />
+    <Compile Include="Extentions\Model\Config\FreqExtentions.cs" />
+    <Compile Include="Extentions\Model\Config\OperatorExtentions.cs" />
+    <Compile Include="Extentions\Model\Config\TechnologyExtentions.cs" />
+    <Compile Include="Extentions\Model\Config\RegionExtentions.cs" />
+    <Compile Include="Extentions\Model\Config\TechnologyListExtentions.cs" />
+    <Compile Include="Extentions\Model\TemsFileInfo\HeaderInfoModelExtentions.cs" />
+    <Compile Include="Extentions\ViewModel\TreeViewTopItemsExtentions.cs" />
+    <Compile Include="IO\FileReader.cs" />
+    <Compile Include="IO\Global.cs" />
+    <Compile Include="IO\ImportConfigResult.cs" />
+    <Compile Include="IO\FileDialog.cs" />
+    <Compile Include="IO\ParsedFileWriter.cs" />
+    <Compile Include="IO\TemsFileReader.cs" />
+    <Compile Include="Messages\Alarms.cs" />
+    <Compile Include="Extentions\Model\Config\ConfigExtentions.cs" />
+    <Compile Include="Extentions\CommonExtentions.cs" />
+    <Compile Include="Models\Config\ConfigItemBase.cs" />
+    <Compile Include="Models\Config\IValidationConfigItem.cs" />
+    <Compile Include="Models\Config\IRemoveSpaces.cs" />
+    <Compile Include="Models\Config\IName.cs" />
+    <Compile Include="Models\Config\ISortByName.cs" />
+    <Compile Include="Models\Config\Operator\OperatorListItemModel.cs" />
+    <Compile Include="Models\Config\Region\RegionListItemModel.cs" />
+    <Compile Include="Models\Config\Technology\TechnologyListItemModel.cs" />
+    <Compile Include="Models\Config\Technology\TechnologyModel.cs" />
+    <Compile Include="Models\Config\Operator\OperatorModel.cs" />
+    <Compile Include="Models\Config\Freq\FreqModel.cs" />
+    <Compile Include="Models\Config\Region\RegionModel.cs" />
+    <Compile Include="Models\Config\ObjectType.cs" />
+    <Compile Include="Models\Parsing\Area\AreaBinModel.cs" />
+    <Compile Include="Models\Parsing\AreaItemModel.cs" />
+    <Compile Include="Models\Parsing\Comparison\ComparatorItem.cs" />
+    <Compile Include="Models\Parsing\Point\PointFreqModel.cs" />
+    <Compile Include="Models\Parsing\Point\PointModel.cs" />
+    <Compile Include="Models\Parsing\Comparison\Comparator.cs" />
+    <Compile Include="Models\Parsing\Comparison\ComparatorBase.cs" />
+    <Compile Include="Models\Parsing\Feedback\FeedbackStatus.cs" />
+    <Compile Include="Models\Parsing\FreqLevelPairModel.cs" />
+    <Compile Include="Models\Parsing\CoordinateModel.cs" />
+    <Compile Include="Models\Parsing\Repository\RepositoryBase.cs" />
+    <Compile Include="Models\Parsing\Repository\RepositoryModel.cs" />
+    <Compile Include="Models\Parsing\Repository\RepositoryBinModel.cs" />
+    <Compile Include="Models\Parsing\Repository\RepositoryManager.cs" />
+    <Compile Include="Models\Parsing\ThreadHelpers\ThreadCounter.cs" />
+    <Compile Include="Models\TemsFileInfo\FreqPoolModel.cs" />
+    <Compile Include="Models\Parsing\Point\IPoint.cs" />
+    <Compile Include="Models\Parsing\RowDataModel.cs" />
+    <Compile Include="Models\Parsing\Area\AreaBase.cs" />
+    <Compile Include="Models\TemsFileInfo\HeaderInfoModel.cs" />
+    <Compile Include="Models\Parsing\Feedback\FeedbackCreatedEventArgs.cs" />
+    <Compile Include="Models\TemsFileInfo\ColumnInfoModel.cs" />
+    <Compile Include="Models\Parsing\Feedback\FeedbackItemModel.cs" />
+    <Compile Include="Models\Config\TooManyItemsInConfigurationException.cs" />
+    <Compile Include="Processing\TemsFileParserFinishedEventArgs.cs" />
+    <Compile Include="Processing\BestLevelFoundEventArgs.cs" />
+    <Compile Include="Processing\TemsFileParser.cs" />
+    <Compile Include="UserControls\Spinner.xaml.cs">
+      <DependentUpon>Spinner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\ExitViewModel.cs" />
+    <Compile Include="ViewModels\FilePathViewModel.cs" />
+    <Compile Include="Processing\Calculator.cs" />
+    <Compile Include="Processing\StringParser.cs" />
+    <Compile Include="Resources\ErrorMessages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ErrorMessages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\Config\INameItem\INameItemViewModel.cs" />
+    <Compile Include="ViewModels\Config\INameItem\INameListViewModel.cs" />
+    <Compile Include="ViewModels\Config\INameItem\INameListItemViewModel.cs" />
+    <Compile Include="ViewModels\Config\INameItem\RenamingData.cs" />
+    <Compile Include="ViewModels\Config\Technology\TechnologyListItemViewModel.cs" />
+    <Compile Include="ViewModels\Config\Freq\FreqViewModel.cs" />
+    <Compile Include="ViewModels\CheckboxViewModel.cs" />
+    <Compile Include="ViewModels\ParsingViewModel.cs" />
+    <Compile Include="ViewModels\MessageViewModel.cs" />
+    <Compile Include="ViewModels\ViewModelBase.cs" />
+    <Page Include="UserControls\Spinner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CalcDistanceView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ChildWindowView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Config\ConfigView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Config\INameItem\INameItemView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Config\INameItem\INameListItemView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Config\Technology\TechnologyListItemView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Config\INameItem\INameListView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Config\Freq\FreqView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ExitView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ParsingView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MessageView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MainView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Models\Config\ConfigModel.cs" />
+    <Compile Include="IO\FileWriter.cs" />
+    <Compile Include="CustomAttributes\FreqSpectrumAttribute.cs" />
+    <Compile Include="Models\Settings\SettingsModel.cs" />
+    <Compile Include="ViewModels\CalcDistanceViewModel.cs" />
+    <Compile Include="ViewModels\Config\ConfigViewModel.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\Config\TreeViewItemViewModel.cs" />
+    <Compile Include="Views\CalcDistanceView.xaml.cs">
+      <DependentUpon>CalcDistanceView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ChildWindowView.xaml.cs">
+      <DependentUpon>ChildWindowView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Config\ConfigView.xaml.cs">
+      <DependentUpon>ConfigView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Config\INameItem\INameItemView.xaml.cs">
+      <DependentUpon>INameItemView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Config\INameItem\INameListItemView.xaml.cs">
+      <DependentUpon>INameListItemView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Config\Technology\TechnologyListItemView.xaml.cs">
+      <DependentUpon>TechnologyListItemView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Config\INameItem\INameListView.xaml.cs">
+      <DependentUpon>INameListView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Config\Freq\FreqView.xaml.cs">
+      <DependentUpon>FreqView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ExitView.xaml.cs">
+      <DependentUpon>ExitView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ParsingView.xaml.cs">
+      <DependentUpon>ParsingView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MessageView.xaml.cs">
+      <DependentUpon>MessageView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainView.xaml.cs">
+      <DependentUpon>MainView.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\ErrorMessages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ErrorMessages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\OK.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\megafon.png" />
+    <Resource Include="Icons\Startup1.png" />
+    <Resource Include="Icons\Startup2.png" />
+    <Resource Include="Icons\Startup3.png" />
+    <Resource Include="Icons\Startup4.png" />
+    <Resource Include="Icons\Startup51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\Startup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\Error.ico" />
+    <Resource Include="Icons\Warning.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

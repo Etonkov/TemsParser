@@ -1,0 +1,583 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <regionsList>
+    <item name="Брянск" />
+    <item name="Владимир" />
+    <item name="Калуга" />
+    <item name="Курск" />
+    <item name="Н.Новгород      " />
+    <item name="Орёл " />
+    <item name="Рязань " />
+    <item name="Тула  " />
+  </regionsList>
+  <technologiesList>
+    <item name="    2G        ">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePattern>All-Scanned ARFCN</freqColumnNamePattern>
+      <levelColumnNamePattern>All-Scanned RxLev (dBm)</levelColumnNamePattern>
+    </item>
+    <item name="3G        ">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePattern>All-Sc Best UARFCN</freqColumnNamePattern>
+      <levelColumnNamePattern>All-Sc Best Aggr Ec (dBm)</levelColumnNamePattern>
+    </item>
+    <item name="4G">
+      <latitudeColumnName>All-Latitude</latitudeColumnName>
+      <longitudeColumnName>All-Longitude</longitudeColumnName>
+      <freqColumnNamePattern>All-Sc Best EARFCN</freqColumnNamePattern>
+      <levelColumnNamePattern>All-Sc Best RSRP (dBm)</levelColumnNamePattern>
+    </item>
+  </technologiesList>
+  <operatorsList>
+    <item name="МегаФон   " />
+    <item name="  МТС          " />
+    <item name=" Билайн " />
+    <item name="Tele2  " />
+  </operatorsList>
+  <region name="Брянск">
+    <technology name="   2G   ">
+      <operator name="    Tele2      ">
+        <freqList>155-160,    1000     </freqList>
+        <freqList>12       </freqList>
+        <freqList>    78      -113</freqList>
+      </operator>
+      <operator name="      Билайн    ">
+        <freqList>155-   160 ,     1000    </freqList>
+        <freqList>         12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+  <region name="Владимир">
+    <technology name="2G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+  <region name="Калуга">
+    <technology name="2G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+  <region name="Курск">
+    <technology name="2G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+  <region name="Н.Новгород">
+    <technology name="2G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+  <region name="Орёл">
+    <technology name="2G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+  <region name="Рязань">
+    <technology name="2G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+  <region name="Тула">
+    <technology name="2G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="3G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+    </technology>
+    <technology name="4G">
+      <operator name="Tele2">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="Билайн">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МегаФон">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+      <operator name="МТС">
+        <freqList>155-160,1000</freqList>
+        <freqList>12</freqList>
+        <freqList>78-113</freqList>
+      </operator>
+	</technology>
+  </region>
+</config>
